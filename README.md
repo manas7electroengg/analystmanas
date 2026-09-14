@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Manas
+# 💫 Hi 👋, I'm Manas Singh
 
 **Electronics Engineering Student '27 | Embedded Systems | VLSI | Computer Vision | IoT**
 
